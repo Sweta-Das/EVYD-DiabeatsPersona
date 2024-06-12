@@ -1,3 +1,7 @@
-pandas
+imblearn
+matplotlib
 numpy
+pandas
 python-dotenv
+scikit-learn
+scipy
